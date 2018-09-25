@@ -1,0 +1,1 @@
+Following the Css grid layoud course with platzi platform.
